@@ -1,0 +1,62 @@
+baseURL = "https://barakahlabs.github.io/islam-journal/"
+locale = "en-us"
+title = "Islam Journal"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  env = "production"
+  title = "Islam Journal"
+  description = "Notes and reflections on learning about Islam"
+  author = "Sirajul Muneer"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  ShowShareButtons = false
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = true
+  comments = false
+  hidemeta = false
+  hideSummary = false
+
+  [params.homeInfoParams]
+    Title = "Islam Journal"
+    Content = "Notes, reflections, and things I'm learning about Islam."
+
+[[menu.main]]
+  name = "Archive"
+  url = "archives/"
+  weight = 10
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "Search"
+  url = "search/"
+  weight = 30
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
