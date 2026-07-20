@@ -2,7 +2,7 @@
 title: "Welcome"
 date: 2026-07-14T21:27:30+02:00
 draft: false
-tags: ["meta"]
+tags: []
 ---
 
 This is the start of my journal — notes and reflections as I learn about existence, God, Religion, and Islam.
