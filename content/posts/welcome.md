@@ -5,7 +5,7 @@ draft: false
 tags: ["meta"]
 ---
 
-This is the start of my journal — notes and reflections as I learn about Islam.
+This is the start of my journal — notes and reflections as I learn about existence, God, Religion, and Islam.
 
 Entries here are mostly personal understanding, not religious rulings. Corrections and
 better sources are always welcome.
