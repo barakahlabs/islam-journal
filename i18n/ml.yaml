@@ -1,0 +1,33 @@
+- id: prev_page
+  translation: "പുതിയത്"
+
+- id: next_page
+  translation: "പഴയത്"
+
+- id: read_time
+  translation:
+    one : "1 മിനിറ്റ്"
+    other: "{{ .Count }} മിനിറ്റ്"
+
+- id: words
+  translation:
+    one : "വാക്ക്"
+    other: "{{ .Count }} വാക്കുകൾ"
+
+- id: toc
+  translation: "ഉള്ളടക്കം"
+
+- id: translations
+  translation: "പരിഭാഷകൾ"
+
+- id: home
+  translation: "ഹോം"
+
+- id: edit_post
+  translation: "തിരുത്തുക"
+
+- id: code_copy
+  translation: "പകർത്തുക"
+
+- id: code_copied
+  translation: "പകർത്തി!"

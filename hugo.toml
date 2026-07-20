@@ -1,5 +1,5 @@
 baseURL = "https://barakahlabs.github.io/islam-journal/"
-locale = "en-us"
+locale = "ml"
 title = "Islam Journal"
 
 enableRobotsTXT = true

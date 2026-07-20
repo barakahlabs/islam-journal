@@ -1,11 +1,11 @@
 ---
-title: "Welcome"
+title: "ആമുഖം"
 date: 2026-07-14T21:27:30+02:00
 draft: false
 tags: []
 ---
 
-This is the start of my journal — notes and reflections as I learn about existence, God, Religion, and Islam.
+അസ്തിത്വം, ദൈവം, മതം, ഇസ്ലാം എന്നിവയെ കുറിച്ച് ഞാൻ പഠിക്കുന്നതിനിടെ ഉള്ള കുറിപ്പുകളും ചിന്തകളും രേഖപ്പെടുത്തുന്ന ഈ ജേണലിന്റെ തുടക്കമാണിത്.
 
-Entries here are mostly personal understanding, not religious rulings. Corrections and
-better sources are always welcome.
+ഇവിടെയുള്ള എഴുത്തുകൾ കൂടുതലും വ്യക്തിപരമായ ഗ്രാഹ്യമാണ്, മതവിധികളല്ല. തിരുത്തലുകളും
+മെച്ചപ്പെട്ട സ്രോതസ്സുകളും എപ്പോഴും സ്വാഗതം ചെയ്യുന്നു.
