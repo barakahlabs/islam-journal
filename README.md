@@ -1,12 +1,4 @@
-# Islam Journal
+# Blog
 
-Notes and reflections on learning about Islam.
-
-Read here: https://barakahlabs.github.io/islam-journal/
-
-## Entries
-
-<!-- ENTRIES:START -->
-- [Logical Argument for God](https://barakahlabs.github.io/islam-journal/posts/logical-argument-for-god/)
-- [Welcome](https://barakahlabs.github.io/islam-journal/posts/welcome/)
-<!-- ENTRIES:END -->
+- [Islamic Journal](sites/islamic-journal/) — notes and reflections on learning about Islam. https://barakahlabs.github.io/blog/islamic-journal/
+- [Poems](sites/poems/) — a collection of poems. https://barakahlabs.github.io/blog/poems/
