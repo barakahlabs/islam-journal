@@ -1,4 +1,7 @@
 sites/*/public/
 sites/*/resources/
 sites/*/.hugo_build.lock
+sites/*/node_modules/
+sites/book/package-lock.json
+sites/book/packages/hugoautogen/
 /dist/

@@ -47,6 +47,19 @@ jobs:
           HUGO_ENV: production
         working-directory: sites/poems
         run: hugo --gc --minify --destination ../../dist/poems
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install book dependencies
+        working-directory: sites/book
+        run: npm install
+      - name: Build book
+        env:
+          HUGO_ENVIRONMENT: production
+          HUGO_ENV: production
+        working-directory: sites/book
+        run: npx hugo --gc --minify --destination ../../dist/book
       - name: Add landing page
         run: |
           mkdir -p dist
